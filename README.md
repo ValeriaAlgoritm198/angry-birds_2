@@ -55,9 +55,11 @@
 </html>
 style.css
 
+
 body{
     background-image: linear-gradient(red,white,red);
 }
 
 footer{
     background-image: linear-gradient(rgb(200, 255, 0),orange);
+}
